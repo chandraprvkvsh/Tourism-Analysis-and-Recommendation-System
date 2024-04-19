@@ -1,8 +1,8 @@
-# Analysis-of-Foreign-and-Domestic-Tourists-in-Maharashtra
+# Examination of Tourism Trends for Domestic and Foreign Visitors
 
-Firstly, Collected some tourism data for the State of Maharashtra.
-Added some synthetic data to original data to prepare the final dataset.
-Then made some useful inferences by various approaches.
-Built a Neural-Network based recommendation system which would recommend places similar to a given place in a given district.
+Initially, tourism data was compiled for analysis, emphasizing insights into travel patterns within Maharashtra.
+Augmentation of the original dataset with synthetic data was performed to refine the dataset.
+Subsequently, diverse analytical methodologies were applied to derive valuable insights.
+Furthermore, a recommendation system was developed using Neural Networks, designed to suggest destinations analogous to a specified location within a given district.
 
-NOTE : The goal here was to focus on the procedure of making inferences from such a dataset, Because not all the data here is real. Some of it is synthetic.
+NOTE: The primary objective was to outline the methodology for extracting insights from the dataset, acknowledging that a portion of the data is synthetic.
